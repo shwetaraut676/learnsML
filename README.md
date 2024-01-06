@@ -2,7 +2,7 @@
 
 This repository (learnsML) contains projects and resources related to learning and practicing machine learning concepts.
 
-## Project: Customer Segmentation using K-means
+## Project 1: Customer Segmentation using K-means
 
 ### Description
 
@@ -11,3 +11,7 @@ This project focuses on customer segmentation using the K-means clustering algor
 ### Project Structure
 
 - `Customer Segmentation using K-means.ipynb`: Jupyter Notebook containing the main project code and analysis.
+
+## Project 1: E-commerce Customer Churn Prediction
+
+The main goal of this project is to develop a machine learning model to predict customer churn based on historical customer data. The predictive model utilizes various features such as customer demographics, purchase history, and customer interactions to forecast whether a customer is likely to churn in the future.
